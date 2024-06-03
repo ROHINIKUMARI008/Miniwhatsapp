@@ -67,6 +67,13 @@ Defines the API routes for chat operations.
 **app.js**
 Main application file to set up the server and routes.
 ## Code
+
+![ss3a](https://github.com/ROHINIKUMARI008/Miniwhatsapp/assets/130496180/d4f8ecfd-d8d3-40ca-beb2-a63480110b1b)
+
+![ss3b](https://github.com/ROHINIKUMARI008/Miniwhatsapp/assets/130496180/c5599089-f4db-42b4-8141-26ad28f79633)
+
+![ss3c](https://github.com/ROHINIKUMARI008/Miniwhatsapp/assets/130496180/10828858-35b7-42aa-ab26-9d1473e2b746)
+
 ## Installation
  Clone the repository:
 
