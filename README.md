@@ -1,5 +1,5 @@
 
-# MiniWhatspp
+# Chatbiz
 
 This mini-project is a chat application built using Node.js, Express.js, and MongoDB, inspired by WhatsApp's chat functionality. The primary goal was to gain hands-on experience with database integration, backend development, and RESTful API creation. While the project does not include real-time messaging and user validation, it effectively implements CRUD operations to manage chat functionalities.
 
